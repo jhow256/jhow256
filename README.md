@@ -92,12 +92,4 @@
 
 <p data-importer="text" align="left">🧑‍🎓 Controle de frequência - Sistema criado para ter o controle de frequência dos alunos do fundamental, com regras de envio de email para notificar o professor.</p>
 
-###
 
-<h2 data-importer="text" align="center"></h2>
-
-###
-
-<h2 data-importer="text" align="center"></h2>
-
-###
