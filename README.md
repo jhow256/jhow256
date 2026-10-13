@@ -18,7 +18,7 @@
 
 ###
 
-<p data-importer="text" align="left">FrontEnd</p>
+<p data-importer="text" align="left">Frontend</p>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<p data-importer="text" align="left">BackEnd</p>
+<p data-importer="text" align="left">Backend</p>
 
 ###
 
@@ -77,7 +77,7 @@
 ###
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=shark&height=100&section=header&reversal=false&text=Principais%20Projetos&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox_light"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&section=header&reversal=false&text=Principais%20Projetos&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=undefined"  />
 </div>
 
 ###
@@ -92,4 +92,12 @@
 
 <p data-importer="text" align="left">🧑‍🎓 Controle de frequência - Sistema criado para ter o controle de frequência dos alunos do fundamental, com regras de envio de email para notificar o professor.</p>
 
+###
 
+<h2 data-importer="text" align="center"></h2>
+
+###
+
+<h2 data-importer="text" align="center"></h2>
+
+###
