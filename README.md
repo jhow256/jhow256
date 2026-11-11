@@ -94,6 +94,3 @@
 
 ###
 
-<h2 data-importer="text" align="center"></h2>
-
-###
